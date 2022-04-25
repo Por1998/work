@@ -25,6 +25,14 @@ function App() {
         >
           React1
         </a>
+        <a
+          className="App-link"
+          href="https://reactjs.org"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          React2
+        </a>
       </header>
     </div>
   );
