@@ -7,31 +7,31 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          React
         </p>
         <a
-          className="App-link"
+          className="link"
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
         >
-          React
+          Next
         </a>
         <a
-          className="App-link"
+          className="link1"
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
         >
-          React1
+          Next1
         </a>
         <a
-          className="App-link"
+          className="link2"
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
         >
-          React2
+          Next2
         </a>
       </header>
     </div>
